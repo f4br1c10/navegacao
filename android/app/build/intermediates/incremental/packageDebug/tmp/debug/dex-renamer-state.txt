@@ -1,0 +1,4 @@
+#Tue Feb 09 21:38:22 BRT 2021
+base.0=/home/fabriciopereira/Documentos/curso-react-native/navegacao/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
